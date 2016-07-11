@@ -17,7 +17,7 @@ Start with these! You don't have to finish all of these before moving on to the 
 - [ ] Fix the link to log in.
 - [ ] There should be a title link to the homepage in the top-left corner on all pages.
 - [ ] Implement designs from available comps.
-- [ ] Add a new page that shows all of the movies--not just the ones that have been rated.
+- [ ] Add a  page that shows all of the movies that have been rated, whether or not they pass the Bechdel test.
 - [ ] If a movie has been rated as Bechdel-worthy, add the *badge* graphic to its page (See the assets/ folder).
 
 ## Difficult
